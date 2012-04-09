@@ -8,3 +8,6 @@ of meaningless or offensive test emails to customers.
 The name "Osgood" is taken from America's first Postmaster
 General.  I assume that he did a better job of actually
 delivering mail than the osgood server does.
+
+4/9/2102 - MPA
+Forked this project and added a tag, to use with gradle.
